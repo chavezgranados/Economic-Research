@@ -42,98 +42,43 @@ La asignatura pertenece al área de formación especifico avanzado, tiene como p
 
 ---
 
-## Unidad II — Diseño metodológico
+## Unidad II. Elección del Método del Trabajo de Investigación
 
-- Diseño de investigación
-- Fuentes de información
-- Recolección de datos
-- Población y muestra
-- Muestreo
-- Estadística aplicada
-- Análisis de datos
+| Semana | Contenidos conceptuales |
+|:------:|-------------------------|
+| **5** | **Diseño de investigación**<br>• Tipos de diseño: experimental, cuasi-experimental, transversal y longitudinal.<br>• Criterios para seleccionar un diseño según la naturaleza del problema. |
+| **6** | **Técnicas e instrumentos de recolección de datos**<br>• Tipos de fuentes de datos: primarias y secundarias.<br>• Técnicas de recolección: encuestas, entrevistas, observación y bases de datos oficiales. |
+| **7** | **Población, muestra y muestreo**<br>• Concepto de población y muestra.<br>• Técnicas de muestreo probabilístico y no probabilístico.<br>• Cálculo del tamaño de muestra.<br><br>**Procedimientos de análisis de datos**<br>• Tipos de análisis: descriptivo, inferencial y econométrico.<br>• Conceptos básicos de estadística aplicada a la economía. |
 
-**Producto esperado**
-
-- Metodología completa del proyecto.
+> **📝 Evaluación de Procesos 2**
 
 ---
 
-## Unidad III — Presentación de resultados
+## Unidad III. Presentación de Resultados del Trabajo de Investigación
 
-- Organización de resultados
-- Interpretación
-- Redacción científica
-- Tablas
-- Figuras
-- Normas APA
+| Semana | Contenidos conceptuales |
+|:------:|-------------------------|
+| **9** | **Organización de resultados**<br>• Tipos de resultados: descriptivos y analíticos.<br>• Estructura de presentación: tablas, gráficos y narrativa. |
+| **10** | **Análisis e interpretación**<br>• Interpretación de resultados estadísticos y económicos.<br>• Relación de los resultados con los objetivos e hipótesis. |
+| **11** | **Redacción científica de resultados**<br>• Normas de redacción científica: claridad, concisión y precisión.<br>• Uso de citas y referencias de datos. |
+| **12** | **Presentación visual y tablas**<br>• Buenas prácticas para la presentación gráfica y tabular.<br>• Normas internacionales (APA) para tablas y figuras. |
 
-**Producto esperado**
-
-- Resultados del estudio.
+> **📝 Evaluación de Procesos 3**
 
 ---
 
-## Unidad IV — Discusión
+## Unidad IV. Discusión del Trabajo de Investigación
 
-- Comparación con la literatura
-- Limitaciones
-- Alcances
-- Conclusiones
-- Recomendaciones
-- Presentación del artículo
+| Semana | Contenidos conceptuales |
+|:------:|-------------------------|
+| **13** | **Relación de resultados con la literatura**<br>• Comparación de resultados con estudios previos.<br>• Interpretación de coincidencias y discrepancias. |
+| **14** | **Limitaciones y alcances**<br>• Identificación de limitaciones metodológicas y de datos.<br>• Alcance y generalización de los resultados. |
+| **15** | **Conclusiones**<br>• Cómo redactar conclusiones precisas y basadas en resultados.<br>• Relación entre conclusiones, objetivos y recomendaciones.<br><br>**Recomendaciones y estándares internacionales**<br>• Formulación de recomendaciones económicas, políticas o académicas.<br>• Normas internacionales de publicación científica (APA). |
 
-**Producto esperado**
+> **📝 Evaluación de Procesos 4**
 
-- Artículo científico completo.
-
-El contenido de las cuatro unidades proviene del programa del sílabo. :contentReference[oaicite:2]{index=2}
-
----
-
-# 💻 Software
-
-Durante el curso se utilizará:
-
-- R
-- RStudio
-- Python
-- Jupyter Notebook
-- Google Colab
-- Stata (opcional)
-- GitHub
-
----
-
-# 📂 Organización del Repositorio
-
-```
-Investigacion-Economica/
-│
-├── clases/
-│   ├── semana01/
-│   ├── semana02/
-│   ├── ...
-│
-├── practicas/
-│
-├── laboratorios/
-│
-├── datasets/
-│
-├── scripts/
-│   ├── R/
-│   └── Python/
-│
-├── diapositivas/
-│
-├── tareas/
-│
-├── proyecto_final/
-│
-├── bibliografia/
-│
-└── README.md
-```
+> **🎓 Evaluación de Resultados – Examen Final**  
+> Examen de carácter integrador que evalúa la competencia de la asignatura y las capacidades desarrolladas en las cuatro unidades de aprendizaje.
 
 ---
 
@@ -141,11 +86,15 @@ Investigacion-Economica/
 
 La evaluación considera:
 
-- Evaluaciones de proceso
-- Examen parcial
-- Examen final
+- Evaluaciones de procesos.
+- Examen parcial.
+- Examen final.
 
-La nota final combina las evaluaciones de proceso y de resultados según el sílabo. :contentReference[oaicite:3]{index=3}
+La nota final del curso se calcula a partir de:
+
+```text
+PF = (EP + ER) / 2
+```
 
 ---
 
@@ -159,23 +108,6 @@ La nota final combina las evaluaciones de proceso y de resultados según el síl
 - Hausman, D. M. (2017). *The Philosophy of Economics*.
 - McCloskey, D. (2019). *Economical Writing*.
 - Mendoza, W., & Mendoza, L. (2026). *Cómo investigan los economistas*.
-
-Seleccionada de las fuentes de información del sílabo. :contentReference[oaicite:4]{index=4}
-
----
-
-# 🎓 Competencias
-
-Al finalizar el curso el estudiante será capaz de:
-
-- Formular problemas de investigación económica.
-- Diseñar investigaciones cuantitativas.
-- Elaborar bases de datos para análisis empírico.
-- Aplicar herramientas estadísticas y econométricas.
-- Interpretar evidencia empírica.
-- Redactar artículos científicos siguiendo estándares internacionales.
-
-Estas competencias resumen las capacidades establecidas en el sílabo. :contentReference[oaicite:5]{index=5}
 
 ---
 
