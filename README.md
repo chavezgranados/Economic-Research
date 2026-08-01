@@ -1,4 +1,4 @@
-# Investigación Económica
+# Sílabo
 
 > Repositorio del curso **Investigación Económica**. Este repositorio reúne el material del curso, lecturas, prácticas, bases de datos, scripts en R/Python y recursos para el desarrollo de un artículo científico en Economía.
 
