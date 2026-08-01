@@ -18,15 +18,12 @@
 | **Horas semanales** | 4 (2 Teoría + 2 Práctica) |
 | **Docente** | **Luis Chávez Granados** |
 
-La información anterior corresponde al sílabo del curso. :contentReference[oaicite:0]{index=0}
 
 ---
 
-# 🎯 Objetivo del Curso
+# 🎯 Sumilla
 
-Desarrollar las competencias necesarias para diseñar, ejecutar y comunicar investigaciones económicas mediante la elaboración de un artículo científico siguiendo estándares internacionales.
-
-Basado en la sumilla y competencias del sílabo. :contentReference[oaicite:1]{index=1}
+La asignatura pertenece al área de formación especifico avanzado, tiene como propósito que el alumno realice investigaciones relacionadas a la economía. La asignatura desarrolla la manera de redacción de un proyecto de artículo científico con estándares internacionales. Su contenido está organizado en cuatro unidades: I. Presentación de la introducción del trabajo de investigación II. Elección del método del trabajo de investigación III. Presentación de resultados del trabajo de investigación IV. Discusión del trabajo de investigación.
 
 ---
 
