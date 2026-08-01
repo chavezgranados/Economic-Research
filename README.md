@@ -29,19 +29,16 @@ La asignatura pertenece al área de formación especifico avanzado, tiene como p
 
 # 📖 Contenido del Curso
 
-## Unidad I — Introducción del trabajo de investigación
+## Unidad I. Presentación de la Introducción del Trabajo de Investigación
 
-- Conceptos básicos de investigación económica
-- Tipos de investigación
-- IMRyD
-- Planteamiento del problema
-- Justificación
-- Objetivos
-- Hipótesis
+| Semana | Contenidos conceptuales |
+|:------:|-------------------------|
+| **1** | **Conceptos básicos de investigación económica**<br>• Definición y tipos de investigación económica: exploratoria, descriptiva, explicativa y aplicada.<br>• Importancia de la investigación en economía.<br>• Estructura IMRyD. |
+| **2** | **Planteamiento del problema**<br>• Concepto y características de un problema de investigación (claridad, relevancia y viabilidad).<br>• Formulación de preguntas de investigación. |
+| **3** | **Justificación y relevancia**<br>• Tipos de justificación: académica, social y económica.<br>• Importancia y relevancia del estudio en el contexto nacional e internacional. |
+| **4** | **Objetivos e hipótesis**<br>• Diferencia entre objetivos generales y específicos.<br>• Concepto de hipótesis de investigación y sus características. |
 
-**Producto esperado**
-
-- Introducción del artículo científico.
+> **📝 Evaluación de Procesos 1**
 
 ---
 
