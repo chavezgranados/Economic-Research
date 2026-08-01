@@ -6,18 +6,15 @@
 
 ## 📚 Información General
 
-| Ítem | Descripción |
-|------|-------------|
-| **Curso** | Investigación Económica |
-| **Código** | 05609507030 |
-| **Programa** | Economía |
-| **Ciclo** | VII |
-| **Créditos** | 3 |
-| **Modalidad** | Virtual |
-| **Duración** | 16 semanas (64 horas) |
-| **Horas semanales** | 4 (2 Teoría + 2 Práctica) |
-| **Docente** | **Luis Chávez Granados** |
-
+- **Asignatura:** Investigación Económica
+- **Código:** 05609507030
+- **Programa:** Economía
+- **Ciclo:** VII
+- **Créditos:** 3
+- **Modalidad:** Virtual
+- **Duración:** 16 semanas (64 horas académicas)
+- **Carga horaria semanal:** 4 horas (2 teoría + 2 práctica)
+- **Docente:** Luis Chávez Granados
 
 ---
 
