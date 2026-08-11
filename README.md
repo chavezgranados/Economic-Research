@@ -111,3 +111,12 @@ PF = (EP + ER) / 2
 # 📄 Licencia
 
 Este repositorio es utilizado exclusivamente con fines académicos para el curso **Investigación Económica**.
+
+
+# 📄 Plantilla para el artículo de investigación
+
+> 📝 Plantilla en **LaTeX** para la elaboración del artículo de investigación del curso.
+
+🔗 **[Abrir plantilla en Overleaf →](https://es.overleaf.com/5156662874wkfhjjbhzwyz#15c71a)**
+
+📌 **Recomendación:** realizar una copia del proyecto antes de comenzar a editarlo.
