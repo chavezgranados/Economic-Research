@@ -117,6 +117,6 @@ Este repositorio es utilizado exclusivamente con fines académicos para el curso
 
 > 📝 Plantilla en **LaTeX** para la elaboración del artículo de investigación del curso.
 
-🔗 **[Abrir plantilla en Overleaf →](https://es.overleaf.com/5156662874wkfhjjbhzwyz#15c71a)**
+🔗 **[Abrir plantilla en Overleaf →](https://es.overleaf.com/read/zqyvpjvrjnmg#903865)**
 
 📌 **Recomendación:** realizar una copia del proyecto antes de comenzar a editarlo.
